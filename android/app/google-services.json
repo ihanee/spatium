@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831566332114",
+    "project_id": "spatium-app-32321",
+    "storage_bucket": "spatium-app-32321.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831566332114:android:f2bf589a5c1180d6382d0b",
+        "android_client_info": {
+          "package_name": "com.example.spatium_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKxp3gtyfOayPWJrw5tvWRMDa6p5FVHt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
